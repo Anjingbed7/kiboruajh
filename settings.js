@@ -12,11 +12,11 @@ const chalk = require('chalk')
 global.zenzkey = 'Your_Apikey' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285609233482','6285609233482'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6285609233482' //Owner Utama
-global.ownerName = 'Nzrl Afndi' //Ganti Jadi Namamu
-global.packname = 'Dracule Mihawk' //Ganti Jadi Nama Botmu
-global.author = 'By NzrlAfndi' //Ganti Jadi Namamu
+global.ownerNumber = ['6285863263950','6285863263950'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '6285863263950' //Owner Utama
+global.ownerName = 'kiboru cantik' //Ganti Jadi Namamu
+global.packname = 'kiboru store' //Ganti Jadi Nama Botmu
+global.author = 'By kiboru cantikk awk awk' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://linktr.ee/NzrlAfndi' //Ganti Jadi Bebas Web Sosmed Mu
@@ -39,12 +39,12 @@ global.available = false //Ganti ke true kalau pengen bot nya keliatan online te
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
-admin: '*Kamu Bukan Admin!*',
-botAdmin: '*Bot Bukan Admin!*',
+admin: '*lu bukan admin sadar diri*',
+botAdmin: '*gua blom di adminin ngntt!*',
 botOwner: '*Kamu Bukan Ownerku!*',
 group: '*Khusus Group!*',
 private: '*Khusus Private Chat!*',
-wait: '*Tunggu Sebentar.......*',
+wait: '*Sabar ngntt lagi di proses*',
 done: '*Done!*',
 prem: '*Khusus User Premium*'
 }
